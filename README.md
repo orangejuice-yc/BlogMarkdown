@@ -1,7 +1,7 @@
 # blog-hexo
 ## 安装melody主题：
 git clone -b master https://github.com/Molunerfinn/hexo-theme-melody themes/melody
-修改themes/melody目录下_config.yml文件
+### 根据自己需要，修改themes/melody目录下_config.yml文件
 ```markdown
 # ---------------
 # Theme color for customize
@@ -320,7 +320,10 @@ disable_baidu_transformation: true
 404Text:
 
 ```
-## npm install
+## 安装组件
+```
+npm install
+```
 ## 启动
 ```
 npm run server
